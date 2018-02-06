@@ -1,0 +1,1 @@
+This main package refers to "Short Declaration Operator" and "The var Keyword" lessons
